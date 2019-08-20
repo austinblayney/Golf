@@ -1,5 +1,6 @@
 using System.Collections.Generic;
-
+using Golf.Models;
+using Interfaces;
 namespace Golf.Interfaces
 {
     public interface IApp
